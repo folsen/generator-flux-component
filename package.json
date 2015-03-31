@@ -1,0 +1,14 @@
+{
+  "name": "generator-flux-component",
+  "version": "0.1.0",
+  "description": "Generates a React component in the Flux architecture.",
+  "files": [
+    "app"
+  ],
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "dependencies": {
+    "yeoman-generator": "^0.17.7"
+  }
+}
